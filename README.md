@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Mohamed 👋
 
 
 As an indie game developer, I am passionate about creating unique and engaging gaming experiences that push the boundaries of traditional game design. With a focus on creativity, innovation, and player enjoyment, I strive to bring my ideas to life and share them with the world through the power of code and imagination.
