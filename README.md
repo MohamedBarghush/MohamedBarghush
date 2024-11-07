@@ -14,9 +14,9 @@ As an indie game developer, I am passionate about creating unique and engaging g
 ---
 
 ### ℹ️ My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedGamalBarghash&theme=dark)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MohamedGamalBarghash&count_private=true&theme=react&showicons=true)](https://github.com/Amr-Wael-Dev)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGamalBarghash&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedBarghush&theme=dark)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MohamedBarghush&count_private=true&theme=react&showicons=true)](https://github.com/Amr-Wael-Dev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBarghush&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
