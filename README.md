@@ -9,7 +9,7 @@ As an indie game developer, I am passionate about creating unique and engaging g
 ### Quick info:
 - 🔭 **Currently working** on new, more fun games.
 - 🌱 **Learning** Game Development and Game Design.
-- 🤔 Always looking for new ideas that can **blow peoples' minds** when playing my games.
+- 🤔 Always looking for new ideas that can **blow people minds** when playing my games.
 - 🌐 **Find me on** social media as **MohamedElShab**.
 - ❤️ **Reach out** to me about games and game development anytime 🤗.
 - ⚡ **Fun fact**: I love pizza way too much 🍕.
